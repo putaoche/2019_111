@@ -1,8 +1,4 @@
 
-# myapp
-个人信息系统demo
-
-### 安装依赖
-    npm i
-### 运行
-    node app.js
+# PHP后端项目地址
+### https://github.com/Leon-Shaw/ProgrammingAbilityAdvancedClass_The_final_projects
+### 由我的同伴肖昂负责并构建
